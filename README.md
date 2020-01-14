@@ -9,17 +9,17 @@ Isometric RPG Demonstration on the LOVE Framework of the Lua Language
 ## Installation
 ### Clone
 
-- Clone this repo to your local machine using `git clone https://github.com/VladimirMerk/micro-rpg`
+Clone this repo to your local machine using `git clone https://github.com/VladimirMerk/micro-rpg`
 
 ### Install LOVE
 
-- Download and install the lava framework version 0.9.1 from the page https://bitbucket.org/rude/love/downloads/
+Download and install the lava framework version 0.9.1 from the page https://bitbucket.org/rude/love/downloads/
 
----
 ### Run
 ```shell
 $ "C:\LovePath\love.exe" "C:\Path\micro-rpg"
 ```
+
 ## Controls
 Left mouse button - Tile backlight
 Right mouse button - Character move
