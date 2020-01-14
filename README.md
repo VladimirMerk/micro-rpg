@@ -23,6 +23,8 @@ $ "C:\LovePath\love.exe" "C:\Path\micro-rpg"
 
 ## Controls
 
-Left mouse button - Tile backlight
+**Left mouse button** - Tile backlight
 
-Right mouse button - Character move
+**Right mouse button** - Character move
+
+**Mouse wheel** - Zoom
